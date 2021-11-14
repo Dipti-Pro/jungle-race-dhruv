@@ -31,14 +31,13 @@ class Game {
     animals = [ animal1,  animal2];
 
     // C38 TA
-    bush = new Group();
-   grass = new Group();
+  //make bush and grass here
 
     // Adding fuel sprite in the game
-    this.addSprites(bush, 4, bushImage, 0.02);
+  
 
     // Adding coin sprite in the game
-    this.addSprites(grass, 18, grassImage, 0.09);
+    
   }
 
   // C38 TA
